@@ -1,2 +1,3 @@
-# merge-99a
-合成 99A · 坦克合成小游戏
+合成 99A
+
+https://shangjiangzhuqizhen.github.io/merge-99a/
